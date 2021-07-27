@@ -1,0 +1,46 @@
+.button_pd {
+  padding: 6px;
+  margin: 4px;
+  float: left;
+}
+
+.px_5 {
+  padding-top: 5px;
+}
+.px_15 {
+  padding-top: 15px;
+}
+
+.px_25 {
+  padding-top: 25px;
+}
+.footer {
+  background-color: black;
+  color: white;
+  padding: 6px;
+  font-size: 7px;
+  text-align: center;
+  border: 5px solid white;
+  text-transform: uppercase;
+}
+
+.bg_home {
+  background-color: #b2ebf2;
+  color: black;
+  border: 1px solid black;
+}
+.bg_about {
+  background-color: #4caf50;
+  color: black;
+  border: 1px solid black;
+}
+.bg_services {
+  background-color: #ff4081;
+  color: black;
+  border: 1px solid black;
+}
+.bg_Contact {
+  background-color: #ffc107;
+  color: black;
+  border: 1px solid black;
+}
